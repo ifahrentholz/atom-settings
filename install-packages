@@ -3,3 +3,4 @@ apm install vim-mode
 apm install git-plus
 apm install project-manager
 apm install terminal-plus
+apm install fancy-new-file
